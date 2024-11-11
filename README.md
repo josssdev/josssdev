@@ -10,7 +10,7 @@
 # Jose Gutierrez
 ### Desarrollador Web y Móvil | Diseñador
 
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://github.com/josssdev))
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 [![Portfolio](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 </div>
@@ -104,7 +104,6 @@ Tienda en línea de arepas auténticas colombianas.
 ---
 
 ### 💪 "Transformando ideas en código, diseñando el futuro digital"
-- ![image](https://github.com/user-attachments/assets/d60c715d-96f1-420e-a355-0360135204d4)
  Instagram: [JOSS.DEV](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 </div>
