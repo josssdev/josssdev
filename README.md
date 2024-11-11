@@ -1,5 +1,5 @@
 
-![Logo](iconjoss.gif)
+   ![Logo](JOSSDEV.gif)
 
 
 
