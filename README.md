@@ -1,4 +1,4 @@
-![Logo](JOSSDEV.mp4)
+![Logo](JOSSDEV.gif)
 
 
 <div align="center">
