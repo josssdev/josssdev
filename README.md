@@ -47,10 +47,9 @@ Soy desarrollador y diseñador con más de 2 años de experiencia creando aplica
 |----------|---------|--------|--------------|
 | HTML5    | Node.js | Adobe Illustrator | GitHub |
 | CSS      | JavaScript | Adobe Photoshop   | Spark AR |
-| React    | API REST| UI/UX Design      | Git |
+| React    | API REST| UI/UX Design      |  Android Studio |
 | React Native | Kotlin | Responsive Design | VS Code |
 | Tailwind CSS | JavaScript | Mobile First | Figma |
-                                           | Android Studio |
 
 </div>
 
