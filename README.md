@@ -1,5 +1,5 @@
 
-   ![Logo](lign="center"icon.gif)
+   ![Logo](icon.gif)
 
 
 
