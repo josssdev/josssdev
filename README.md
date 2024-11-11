@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.canva.com/design/DAGWMC7SXFQ/uZYELtmJUhqyJoFrNGbbMg/view?utm_content=DAGWMC7SXFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <div align="center">
