@@ -1,74 +1,105 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-<div align="center">
-
-# Hi, I'm Katherine! 👋
-
-### Full Stack Developer | Open Source Enthusiast | Tech Blogger
-
-</div>
-
-## 🚀 About Me
-I'm a passionate full stack developer with a love for creating elegant, efficient solutions to complex problems. With 5 years of experience in web development, I specialize in React, Node.js, and cloud technologies.
-
-## 🛠 Skills
-<div align="center">
-
-| Frontend | Backend | Database | DevOps |
-|----------|---------|----------|--------|
-| React    | Node.js | MongoDB  | Docker |
-| Vue.js   | Express | PostgreSQL | AWS   |
-| HTML/CSS | Python  | Redis    | CI/CD  |
-
-</div>
-
-## 🔗 Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-## 🏆 Achievements
-- 🥇 Winner of XYZ Hackathon 2023
-- 📚 Published 50+ technical articles on Dev.to
-- 🌟 Open source contributor to React and Node.js
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Katherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Create a Stunning README for Your GitHub Profile](https://dev.to/katherineoelsner/how-to-create-a-stunning-readme-for-your-github-profile-1cei)
-- [10 Essential VS Code Extensions for JavaScript Developers](https://dev.to/katherineoelsner/10-essential-vs-code-extensions-for-javascript-developers-3dhk)
-- [A Beginner's Guide to Docker](https://dev.to/katherineoelsner/a-beginner-s-guide-to-docker-2jbk)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Focus
-I'm currently working on improving my skills in:
-- 🤖 Machine Learning and AI
-- 🌐 Web3 and Blockchain technologies
-- 📱 Mobile app development with React Native
-
-## 📫 How to reach me
-- 📧 Email: katherine@example.com
-- 💬 Discord: Katherine#1234
 
 <div align="center">
 
-## 💖 Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/katherineoelsner)
+# Jose Gutierrez
+### Desarrollador Web y Móvil | Diseñador
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
+
+## 👨‍💻 Sobre mí
+
+Soy desarrollador y diseñador con más de 2 años de experiencia creando aplicaciones móviles y páginas web. Me especializo en React, React Native, HTML, CSS, JavaScript y Diseño Grafico. Siempre enfocándome en la experiencia de usuario y el diseño funcional. Me encanta transformar ideas en soluciones digitales simples y efectivas.
+
+## 💼 Experiencia
+
+### Desarrollador Web y Móvil | JossDev
+`2022 - Presente`
+- Desarrollo de aplicaciones web y móviles
+- Implementación de soluciones tecnológicas
+- Diseño de interfaces de usuario
+
+### Freelance - Desarrollo Web y Diseño
+`2021 - Presente`
+- Desarrollo de proyectos personalizados
+- Diseño gráfico y web
+- Consultoría tecnológica
+
+### Proyectos Personales
+`2021 - Actualidad`
+- Investigación y desarrollo de nuevas tecnologías
+- Creación de contenido técnico
+- Contribuciones a proyectos open source
+
+## 🛠 Habilidades
+
+<div align="center">
+
+| Frontend | Backend | Diseño | Herramientas |
+|----------|---------|--------|--------------|
+| HTML5    | Node.js | Adobe Illustrator | GitHub |
+| CSS3     | Express | Adobe Photoshop   | Spark AR |
+| React    | API REST| UI/UX Design      | Git |
+| React Native | Kotlin | Responsive Design | VS Code |
+| Tailwind CSS | JavaScript | Mobile First | Figma |
+
+</div>
+
+## 🚀 Proyectos Destacados
+
+### Med Ally
+Plataforma digital que facilita el acceso a información médica confiable.
+- React Native
+- Node.js
+- MongoDB
+- [Ver Proyecto →](https://proyecto1.com)
+
+### Flashcards
+Herramienta interactiva para crear, estudiar y compartir tarjetas de estudio personalizables.
+- React
+- Express
+- PostgreSQL
+- [Ver Proyecto →](https://proyecto2.com)
+
+### Consultorio Medico Familiar Adulam
+Centro de salud dedicado al cuidado integral de familias.
+- Next.js
+- Tailwind CSS
+- Strapi CMS
+- [Ver Proyecto →](https://proyecto3.com)
+
+### Arepa Colombianas
+Tienda en línea de arepas auténticas colombianas.
+- React
+- Node.js
+- Stripe
+- [Ver Proyecto →](https://proyecto4.com)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+</div>
+
+## 📫 Contacto
+
+- 📧 Email: [tu@email.com](mailto:tu@email.com)
+- 💼 LinkedIn: [Jose Gutierrez](https://linkedin.com/in/yourusername)
+- 🌐 Portfolio: [josegutierrez.com](https://tusitio.com)
+
+<div align="center">
 
 ---
 
-<div align="center">
-
-⭐️ From [Katherine](https://github.com/yourusername)
+### 💪 "Transformando ideas en código, diseñando el futuro digital"
 
 </div>
