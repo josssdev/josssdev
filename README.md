@@ -85,15 +85,6 @@ Tienda en línea de arepas auténticas colombianas.
 - js
 - [Ver Proyecto →](https://josssdev.github.io/Arepas-Colombianas/)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ## 📫 Contacto
 
