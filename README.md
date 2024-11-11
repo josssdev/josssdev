@@ -1,6 +1,6 @@
-<div align="center">
-[Logo](JOSSDEV.gif)
-</div>
+
+![Logo](JOSSDEV.gif)
+
 
 
 <div align="center">
