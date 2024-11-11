@@ -1,5 +1,5 @@
 <div align="center">
-![Logo](JOSSDEV.gif)
+[Logo](JOSSDEV.gif)
 </div>
 
 
