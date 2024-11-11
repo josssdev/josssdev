@@ -82,6 +82,7 @@ Tienda en línea de arepas auténticas colombianas.
 - React Native
 - Html
 - Css
+- js
 - [Ver Proyecto →](https://josssdev.github.io/Arepas-Colombianas/)
 
 ## 📊 Estadísticas de GitHub
@@ -103,5 +104,5 @@ Tienda en línea de arepas auténticas colombianas.
 
 ---
 
-### 💪 "Transformando ideas en código, diseñando el futuro digital"
+###  "Turning ideas into reality with every line of code."
 </div>
