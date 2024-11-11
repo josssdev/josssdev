@@ -1,5 +1,7 @@
 
-   ![Logo](icon.gif)
+  <div align="center">
+  <img src="icon.gif" alt="Logo" />
+  </div>
 
 
 
