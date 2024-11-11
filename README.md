@@ -10,8 +10,9 @@
 # Jose Gutierrez
 ### Desarrollador Web y Móvil | Diseñador
 
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-[![Portfolio](https://josssdev.github.io/Portafolio-Joss.Dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joss_0700/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
