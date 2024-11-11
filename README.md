@@ -1,4 +1,6 @@
+<div align="center">
 ![Logo](JOSSDEV.gif)
+</div>
 
 
 <div align="center">
