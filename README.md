@@ -10,9 +10,8 @@
 # Jose Gutierrez
 ### Desarrollador Web y Móvil | Diseñador
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://github.com/josssdev))
+[![Portfolio](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 </div>
 
@@ -61,28 +60,28 @@ Plataforma digital que facilita el acceso a información médica confiable.
 - React Native
 - Node.js
 - MongoDB
-- [Ver Proyecto →](https://proyecto1.com)
+- [Ver Proyecto →]([https://proyecto1.com](https://josssdev.github.io/MedAlly/))
 
 ### Flashcards
 Herramienta interactiva para crear, estudiar y compartir tarjetas de estudio personalizables.
 - React
 - Express
 - PostgreSQL
-- [Ver Proyecto →](https://proyecto2.com)
+- [Ver Proyecto →](https://josssdev.github.io/Flashcards.joss/)
 
 ### Consultorio Medico Familiar Adulam
 Centro de salud dedicado al cuidado integral de familias.
 - Next.js
 - Tailwind CSS
 - Strapi CMS
-- [Ver Proyecto →](https://proyecto3.com)
+- [Ver Proyecto →]([https://proyecto3.com](https://josssdev.github.io/Adulam/))
 
 ### Arepa Colombianas
 Tienda en línea de arepas auténticas colombianas.
 - React
 - Node.js
 - Stripe
-- [Ver Proyecto →](https://proyecto4.com)
+- [Ver Proyecto →]([https://proyecto4.com](https://josssdev.github.io/Arepas-Colombianas/))
 
 ## 📊 Estadísticas de GitHub
 
@@ -96,14 +95,16 @@ Tienda en línea de arepas auténticas colombianas.
 
 ## 📫 Contacto
 
-- 📧 Email: [tu@email.com](mailto:tu@email.com)
+- 📧 Email: [jossgu2023@gmail.com](jossgu2023@gmail.com)
 - 💼 LinkedIn: [Jose Gutierrez](https://linkedin.com/in/yourusername)
-- 🌐 Portfolio: [josegutierrez.com](https://tusitio.com)
+- 🌐 Portfolio: [JOSS.DEV](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 <div align="center">
 
 ---
 
 ### 💪 "Transformando ideas en código, diseñando el futuro digital"
+- ![image](https://github.com/user-attachments/assets/d60c715d-96f1-420e-a355-0360135204d4)
+ Instagram: [JOSS.DEV](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 </div>
