@@ -38,7 +38,6 @@ Soy desarrollador y diseñador con más de 2 años de experiencia creando aplica
 `2021 - Actualidad`
 - Investigación y desarrollo de nuevas tecnologías
 - Creación de contenido técnico
-- Contribuciones a proyectos open source
 
 ## 🛠 Habilidades
 
@@ -47,10 +46,11 @@ Soy desarrollador y diseñador con más de 2 años de experiencia creando aplica
 | Frontend | Backend | Diseño | Herramientas |
 |----------|---------|--------|--------------|
 | HTML5    | Node.js | Adobe Illustrator | GitHub |
-| CSS3     | Express | Adobe Photoshop   | Spark AR |
+| CSS      | JavaScript | Adobe Photoshop   | Spark AR |
 | React    | API REST| UI/UX Design      | Git |
 | React Native | Kotlin | Responsive Design | VS Code |
 | Tailwind CSS | JavaScript | Mobile First | Figma |
+                                           | Android Studio |
 
 </div>
 
@@ -58,31 +58,32 @@ Soy desarrollador y diseñador con más de 2 años de experiencia creando aplica
 
 ### Med Ally
 Plataforma digital que facilita el acceso a información médica confiable.
-- React Native
-- Node.js
-- MongoDB
-- [Ver Proyecto →]([https://proyecto1.com](https://josssdev.github.io/MedAlly/))
+- Html
+- Js
+- Css
+- [Ver Proyecto →](https://josssdev.github.io/MedAlly/)
 
 ### Flashcards
 Herramienta interactiva para crear, estudiar y compartir tarjetas de estudio personalizables.
-- React
-- Express
-- PostgreSQL
+- Html
+- Css
+- js
 - [Ver Proyecto →](https://josssdev.github.io/Flashcards.joss/)
 
 ### Consultorio Medico Familiar Adulam
 Centro de salud dedicado al cuidado integral de familias.
-- Next.js
+- React Native 
 - Tailwind CSS
-- Strapi CMS
-- [Ver Proyecto →]([https://proyecto3.com](https://josssdev.github.io/Adulam/))
+- Html
+- Css
+- [Ver Proyecto →](https://josssdev.github.io/Adulam/)
 
 ### Arepa Colombianas
 Tienda en línea de arepas auténticas colombianas.
-- React
-- Node.js
-- Stripe
-- [Ver Proyecto →]([https://proyecto4.com](https://josssdev.github.io/Arepas-Colombianas/))
+- React Native
+- Html
+- Css
+- [Ver Proyecto →](https://josssdev.github.io/Arepas-Colombianas/)
 
 ## 📊 Estadísticas de GitHub
 
@@ -97,7 +98,6 @@ Tienda en línea de arepas auténticas colombianas.
 ## 📫 Contacto
 
 - 📧 Email: [jossgu2023@gmail.com](jossgu2023@gmail.com)
-- 💼 LinkedIn: [Jose Gutierrez](https://linkedin.com/in/yourusername)
 - 🌐 Portfolio: [JOSS.DEV](https://josssdev.github.io/Portafolio-Joss.Dev/)
 
 <div align="center">
