@@ -1,4 +1,4 @@
-![Logo](https://www.canva.com/design/DAGWMC7SXFQ/uZYELtmJUhqyJoFrNGbbMg/view?utm_content=DAGWMC7SXFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Logo](iconjoss.png)
 
 
 <div align="center">
