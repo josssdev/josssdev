@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador y diseñador con más de 2 años de experiencia creando aplicaciones móviles y páginas web. Me especializo en React, React Native, HTML, CSS, JavaScript y Diseño Grafico. Siempre enfocándome en la experiencia de usuario y el diseño funcional. Me encanta transformar ideas en soluciones digitales simples y efectivas.
+Soy desarrollador y diseñador con más de 2 años de experiencia creando aplicaciones móviles y páginas web. Siempre enfocándome en la experiencia de usuario y el diseño funcional. Me encanta transformar ideas en soluciones digitales simples y efectivas.
 
 ## 💼 Experiencia
 
