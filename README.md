@@ -1,212 +1,269 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
+<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 50%, #0a0a2a 100%); min-height: 100vh; color: white; font-family: 'Inter', sans-serif; position: relative; overflow: hidden;">
 
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
+<!-- Cyberpunk Background Pattern -->
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: 
+  radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.1) 0%, transparent 50%),
+  radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.1) 0%, transparent 50%),
+  radial-gradient(circle at 40% 80%, rgba(120, 219, 255, 0.1) 0%, transparent 50%);
+  pointer-events: none;"></div>
 
-
-
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
-
-<!-- Greeting -->
-</h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
-
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
-
-
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/JoshuaThadi" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
-<!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-<!-- Followers with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
-
-</div>
-
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-
-
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
-
-
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
-
-
-  <h3>🧲 Connect me :</h3>
-<a href="mailto:thadijoshua@gmail.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+<!-- Hero Section -->
+<div style="position: relative; z-index: 1; padding: 60px 40px; text-align: center;">
   
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-    
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
-    <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
-
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
-
-<a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
-
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
-</div></h4>
-
-</div>
-<br/>
-
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
-
-
-
-<!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
-<br>
-<div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-</div>
-
-<br/><br/>
-
-
-
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
-
-<br/>
-
-
-
-
-<!-- top repo and teck stack-->
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-</div>
-
-  
-  <h3>💻 Tech Stack:</h3>
-     <br/>
-  <div align="center">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  </div>
-  <div align="center"> 
+  <!-- Profile Image with Cyberpunk Effect -->
+  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
+    <div style="position: absolute; inset: -4px; background: linear-gradient(45deg, #ff6b9d, #c44569, #6c5ce7, #74b9ff); border-radius: 50%; opacity: 0.8; filter: blur(8px);"></div>
+    <img src="icon.gif" alt="Jose Gutierrez" style="position: relative; width: 150px; height: 150px; border-radius: 50%; border: 3px solid #1a1a2e; z-index: 1;" />
   </div>
 
+  <!-- Main Title -->
+  <h1 style="font-size: 4rem; font-weight: 900; margin: 0; background: linear-gradient(45deg, #ff6b9d, #c44569, #6c5ce7, #74b9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 0 0 30px rgba(255, 107, 157, 0.5);">
+    JOSE GUTIERREZ
+  </h1>
+  
+  <p style="font-size: 1.5rem; margin: 20px 0; color: #a0a0a0; font-weight: 300;">
+    Desarrollador Web y Móvil | Diseñador
+  </p>
+  
+  <p style="font-size: 1.1rem; color: #666; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    Todas mis ideas en un solo lugar
+  </p>
 
+</div>
 
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
+<!-- Navigation Cards -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 0 40px; margin-bottom: 60px;">
+  
+  <!-- About Card -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1) 0%, rgba(196, 69, 105, 0.1) 100%); border: 1px solid rgba(255, 107, 157, 0.2); border-radius: 16px; padding: 30px; position: relative; overflow: hidden; backdrop-filter: blur(10px);">
+    <div style="position: absolute; top: -50%; right: -50%; width: 100%; height: 100%; background: radial-gradient(circle, rgba(255, 107, 157, 0.1) 0%, transparent 70%); pointer-events: none;"></div>
+    <h3 style="color: #ff6b9d; font-size: 1.4rem; margin-bottom: 15px; position: relative; z-index: 1;">Sobre Mí</h3>
+    <p style="color: #ccc; line-height: 1.6; position: relative; z-index: 1;">
+      Desarrollador con +2 años de experiencia creando aplicaciones móviles y web. Enfocado en UX/UI y soluciones digitales innovadoras.
+    </p>
+  </div>
 
+  <!-- Skills Card -->
+  <div style="background: linear-gradient(135deg, rgba(108, 92, 231, 0.1) 0%, rgba(116, 185, 255, 0.1) 100%); border: 1px solid rgba(108, 92, 231, 0.2); border-radius: 16px; padding: 30px; position: relative; overflow: hidden; backdrop-filter: blur(10px);">
+    <div style="position: absolute; top: -50%; right: -50%; width: 100%; height: 100%; background: radial-gradient(circle, rgba(108, 92, 231, 0.1) 0%, transparent 70%); pointer-events: none;"></div>
+    <h3 style="color: #6c5ce7; font-size: 1.4rem; margin-bottom: 15px; position: relative; z-index: 1;">Habilidades</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; position: relative; z-index: 1;">
+      <span style="background: rgba(108, 92, 231, 0.2); color: #74b9ff; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; border: 1px solid rgba(116, 185, 255, 0.3);">React</span>
+      <span style="background: rgba(108, 92, 231, 0.2); color: #74b9ff; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; border: 1px solid rgba(116, 185, 255, 0.3);">Node.js</span>
+      <span style="background: rgba(108, 92, 231, 0.2); color: #74b9ff; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; border: 1px solid rgba(116, 185, 255, 0.3);">JavaScript</span>
+      <span style="background: rgba(108, 92, 231, 0.2); color: #74b9ff; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; border: 1px solid rgba(116, 185, 255, 0.3);">CSS</span>
+    </div>
+  </div>
 
+  <!-- Projects Card -->
+  <div style="background: linear-gradient(135deg, rgba(196, 69, 105, 0.1) 0%, rgba(255, 107, 157, 0.1) 100%); border: 1px solid rgba(196, 69, 105, 0.2); border-radius: 16px; padding: 30px; position: relative; overflow: hidden; backdrop-filter: blur(10px);">
+    <div style="position: absolute; top: -50%; right: -50%; width: 100%; height: 100%; background: radial-gradient(circle, rgba(196, 69, 105, 0.1) 0%, transparent 70%); pointer-events: none;"></div>
+    <h3 style="color: #c44569; font-size: 1.4rem; margin-bottom: 15px; position: relative; z-index: 1;">Proyectos</h3>
+    <p style="color: #ccc; line-height: 1.6; position: relative; z-index: 1;">
+      Med Ally, Flashcards, DocsDev y más proyectos que demuestran mi experiencia en desarrollo web y móvil.
+    </p>
+  </div>
 
+  <!-- Contact Card -->
+  <div style="background: linear-gradient(135deg, rgba(116, 185, 255, 0.1) 0%, rgba(108, 92, 231, 0.1) 100%); border: 1px solid rgba(116, 185, 255, 0.2); border-radius: 16px; padding: 30px; position: relative; overflow: hidden; backdrop-filter: blur(10px);">
+    <div style="position: absolute; top: -50%; right: -50%; width: 100%; height: 100%; background: radial-gradient(circle, rgba(116, 185, 255, 0.1) 0%, transparent 70%); pointer-events: none;"></div>
+    <h3 style="color: #74b9ff; font-size: 1.4rem; margin-bottom: 15px; position: relative; z-index: 1;">Contacto</h3>
+    <div style="position: relative; z-index: 1;">
+      <a href="mailto:jossgu2023@gmail.com" style="color: #74b9ff; text-decoration: none; display: block; margin-bottom: 8px;">📧 jossgu2023@gmail.com</a>
+      <a href="https://josssdev.github.io/Portafolio-Joss.Dev" style="color: #74b9ff; text-decoration: none; display: block;">🌐 JOSS.DEV</a>
+    </div>
+  </div>
 
-<!-- support -->
-<h3 align="center">Support Me 💰 </h3>
+</div>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-</p>
+<!-- Main Content Grid -->
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 40px; padding: 0 40px; margin-bottom: 60px;">
+  
+  <!-- Left Column - Projects Overview -->
+  <div style="background: rgba(26, 26, 46, 0.6); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 30px; backdrop-filter: blur(10px);">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px;">
+      <h2 style="color: #fff; font-size: 1.8rem; margin: 0;">Proyectos Destacados</h2>
+      <div style="display: flex; gap: 10px;">
+        <a href="https://github.com/josssdev" style="background: rgba(255, 107, 157, 0.2); color: #ff6b9d; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.9rem; border: 1px solid rgba(255, 107, 157, 0.3);">GitHub</a>
+        <a href="https://www.instagram.com/joss_0700/" style="background: rgba(108, 92, 231, 0.2); color: #6c5ce7; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.9rem; border: 1px solid rgba(108, 92, 231, 0.3);">Instagram</a>
+      </div>
+    </div>
 
+    <!-- Project List -->
+    <div style="space-y: 12px;">
+      
+      <!-- Project Item -->
+      <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 12px;">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div style="width: 8px; height: 8px; background: #ff6b9d; border-radius: 50%;"></div>
+          <div>
+            <h4 style="color: #fff; margin: 0; font-size: 1.1rem;">Med Ally</h4>
+            <p style="color: #888; margin: 0; font-size: 0.9rem;">Plataforma médica digital</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <span style="background: rgba(255, 107, 157, 0.2); color: #ff6b9d; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">HTML</span>
+          <span style="background: rgba(108, 92, 231, 0.2); color: #6c5ce7; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">JS</span>
+          <a href="https://josssdev.github.io/MedAlly/" style="color: #74b9ff; text-decoration: none; font-size: 0.9rem;">→</a>
+        </div>
+      </div>
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
+      <!-- Project Item -->
+      <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 12px;">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div style="width: 8px; height: 8px; background: #6c5ce7; border-radius: 50%;"></div>
+          <div>
+            <h4 style="color: #fff; margin: 0; font-size: 1.1rem;">Flashcards</h4>
+            <p style="color: #888; margin: 0; font-size: 0.9rem;">Herramienta de estudio interactiva</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <span style="background: rgba(255, 107, 157, 0.2); color: #ff6b9d; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">CSS</span>
+          <span style="background: rgba(108, 92, 231, 0.2); color: #6c5ce7; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">JS</span>
+          <a href="https://josssdev.github.io/Flashcards.joss/" style="color: #74b9ff; text-decoration: none; font-size: 0.9rem;">→</a>
+        </div>
+      </div>
 
+      <!-- Project Item -->
+      <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 12px;">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div style="width: 8px; height: 8px; background: #74b9ff; border-radius: 50%;"></div>
+          <div>
+            <h4 style="color: #fff; margin: 0; font-size: 1.1rem;">Consultorio Adulam</h4>
+            <p style="color: #888; margin: 0; font-size: 0.9rem;">Centro de salud familiar</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <span style="background: rgba(116, 185, 255, 0.2); color: #74b9ff; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">React</span>
+          <span style="background: rgba(196, 69, 105, 0.2); color: #c44569; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">Tailwind</span>
+          <a href="https://josssdev.github.io/Adulam/" style="color: #74b9ff; text-decoration: none; font-size: 0.9rem;">→</a>
+        </div>
+      </div>
 
+      <!-- Project Item -->
+      <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 12px;">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div style="width: 8px; height: 8px; background: #c44569; border-radius: 50%;"></div>
+          <div>
+            <h4 style="color: #fff; margin: 0; font-size: 1.1rem;">DocsDev</h4>
+            <p style="color: #888; margin: 0; font-size: 0.9rem;">Documentos para desarrolladores</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <span style="background: rgba(116, 185, 255, 0.2); color: #74b9ff; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">React Native</span>
+          <span style="background: rgba(255, 107, 157, 0.2); color: #ff6b9d; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">JS</span>
+          <a href="https://josssdev.github.io/DocsDev/" style="color: #74b9ff; text-decoration: none; font-size: 0.9rem;">→</a>
+        </div>
+      </div>
 
-<!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+      <!-- Project Item -->
+      <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 12px;">
+        <div style="display: flex; align-items: center; gap: 16px;">
+          <div style="width: 8px; height: 8px; background: #ff6b9d; border-radius: 50%;"></div>
+          <div>
+            <h4 style="color: #fff; margin: 0; font-size: 1.1rem;">Arepas Colombianas</h4>
+            <p style="color: #888; margin: 0; font-size: 0.9rem;">Tienda en línea de arepas</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <span style="background: rgba(108, 92, 231, 0.2); color: #6c5ce7; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">React Native</span>
+          <span style="background: rgba(255, 107, 157, 0.2); color: #ff6b9d; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">CSS</span>
+          <a href="https://josssdev.github.io/Arepas-Colombianas/" style="color: #74b9ff; text-decoration: none; font-size: 0.9rem;">→</a>
+        </div>
+      </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+    </div>
+  </div>
 
-<p>⚠️ This README is uniquely designed by <strong>JoshuaThadi</strong>.
+  <!-- Right Column - Tech Stack & Contact -->
+  <div style="display: flex; flex-direction: column; gap: 30px;">
+    
+    <!-- Tech Stack Widget -->
+    <div style="background: rgba(26, 26, 46, 0.6); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; backdrop-filter: blur(10px);">
+      <h3 style="color: #fff; margin-bottom: 20px; font-size: 1.3rem;">Tech Stack</h3>
+      
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 20px;">
+        <div style="background: rgba(255, 107, 157, 0.1); border: 1px solid rgba(255, 107, 157, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #ff6b9d; font-size: 1.5rem; margin-bottom: 5px;">⚛️</div>
+          <div style="color: #ccc; font-size: 0.8rem;">React</div>
+        </div>
+        <div style="background: rgba(108, 92, 231, 0.1); border: 1px solid rgba(108, 92, 231, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #6c5ce7; font-size: 1.5rem; margin-bottom: 5px;">📱</div>
+          <div style="color: #ccc; font-size: 0.8rem;">React Native</div>
+        </div>
+        <div style="background: rgba(116, 185, 255, 0.1); border: 1px solid rgba(116, 185, 255, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #74b9ff; font-size: 1.5rem; margin-bottom: 5px;">🟢</div>
+          <div style="color: #ccc; font-size: 0.8rem;">Node.js</div>
+        </div>
+        <div style="background: rgba(196, 69, 105, 0.1); border: 1px solid rgba(196, 69, 105, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #c44569; font-size: 1.5rem; margin-bottom: 5px;">🎨</div>
+          <div style="color: #ccc; font-size: 0.8rem;">CSS</div>
+        </div>
+        <div style="background: rgba(255, 107, 157, 0.1); border: 1px solid rgba(255, 107, 157, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #ff6b9d; font-size: 1.5rem; margin-bottom: 5px;">📝</div>
+          <div style="color: #ccc; font-size: 0.8rem;">JavaScript</div>
+        </div>
+        <div style="background: rgba(108, 92, 231, 0.1); border: 1px solid rgba(108, 92, 231, 0.3); border-radius: 8px; padding: 12px; text-align: center;">
+          <div style="color: #6c5ce7; font-size: 1.5rem; margin-bottom: 5px;">🎯</div>
+          <div style="color: #ccc; font-size: 0.8rem;">Tailwind</div>
+        </div>
+      </div>
+    </div>
 
+    <!-- Experience Timeline -->
+    <div style="background: rgba(26, 26, 46, 0.6); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; backdrop-filter: blur(10px);">
+      <h3 style="color: #fff; margin-bottom: 20px; font-size: 1.3rem;">Experiencia</h3>
+      
+      <div style="space-y: 16px;">
+        <div style="border-left: 2px solid #ff6b9d; padding-left: 16px; margin-bottom: 16px;">
+          <div style="color: #ff6b9d; font-size: 0.9rem; margin-bottom: 4px;">2022 - Presente</div>
+          <div style="color: #fff; font-weight: 600; margin-bottom: 4px;">Desarrollador Web y Móvil</div>
+          <div style="color: #888; font-size: 0.9rem;">JossDev</div>
+        </div>
+        
+        <div style="border-left: 2px solid #6c5ce7; padding-left: 16px; margin-bottom: 16px;">
+          <div style="color: #6c5ce7; font-size: 0.9rem; margin-bottom: 4px;">2021 - Presente</div>
+          <div style="color: #fff; font-weight: 600; margin-bottom: 4px;">Freelance</div>
+          <div style="color: #888; font-size: 0.9rem;">Desarrollo Web y Diseño</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Footer Quote -->
+<div style="text-align: center; padding: 60px 40px; position: relative;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 300px; height: 300px; background: radial-gradient(circle, rgba(255, 107, 157, 0.1) 0%, transparent 70%); pointer-events: none;"></div>
+  <h2 style="font-size: 2.5rem; margin: 0; background: linear-gradient(45deg, #ff6b9d, #6c5ce7, #74b9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; position: relative; z-index: 1;">
+    "Turning ideas into reality with every line of code."
+  </h2>
+</div>
+
+</div>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #0a0a0a;
+}
+
+a:hover {
+  opacity: 0.8;
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+div:hover {
+  transition: all 0.3s ease;
+}
+</style>
+```
