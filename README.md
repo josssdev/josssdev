@@ -258,33 +258,6 @@ timeline
 
 ---
 
-## 🎯 **OBJETIVOS 2024**
-
-<div align="center">
-
-### 🚀 **Learning Goals**
-
-- [ ] 🤖 **Machine Learning con Python**
-- [ ] 🌐 **Web3 & Blockchain Development**
-- [ ] 📱 **Flutter para expandir mobile skills**
-- [ ] ☁️ **AWS Cloud Architecture**
-- [ ] 🎮 **Game Development con Unity**
-- [x] ✅ **Dominar React Native** *(Completado)*
-- [x] ✅ **Certificación en UI/UX** *(Completado)*
-
-### 📊 **Progress Tracker**
-
-| Goal | Progress | ETA |
-|------|----------|-----|
-| Machine Learning | ![30%](https://progress-bar.dev/30?color=ff6b9d) | Q2 2024 |
-| Web3 Development | ![15%](https://progress-bar.dev/15?color=6c5ce7) | Q3 2024 |
-| Flutter | ![45%](https://progress-bar.dev/45?color=74b9ff) | Q2 2024 |
-| AWS Certification | ![60%](https://progress-bar.dev/60?color=c44569) | Q1 2024 |
-
-</div>
-
----
-
 ## 🎮 **HOBBIES & INTERESTS**
 
 <div align="center">
