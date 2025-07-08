@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-74B9FF?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a2e)](https://josssdev.github.io/Portafolio-Joss.Dev)
 [![Email](https://img.shields.io/badge/Email-C44569?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:jossgu2023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/josegutierrez)
-[![Twitter](https://img.shields.io/badge/Twitter-6C5CE7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e)](https://twitter.com/jossdev)
 
 </div>
 
