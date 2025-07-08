@@ -5,7 +5,7 @@
 <img src="icon.gif" alt="Jose Gutierrez" width="150" style="border-radius: 50%;" />
 
 </div>
----
+
 
 <div align="center">
 
