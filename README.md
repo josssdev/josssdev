@@ -109,21 +109,7 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 <div align="center">
 
-### 🎖️ **Logros Desbloqueados**
 
-[![Achievement](https://img.shields.io/badge/🚀_Early_Adopter-FF6B9D?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-[![Achievement](https://img.shields.io/badge/💻_Code_Ninja-6C5CE7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-[![Achievement](https://img.shields.io/badge/🎨_Design_Master-74B9FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-[![Achievement](https://img.shields.io/badge/⚡_Speed_Coder-C44569?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-[![Achievement](https://img.shields.io/badge/🌟_Innovation_Leader-FF6B9D?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-[![Achievement](https://img.shields.io/badge/🔥_Problem_Solver-6C5CE7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/josssdev)
-
-### 📜 **Certificaciones**
-
-[![React](https://img.shields.io/badge/React_Certified-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript_Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)](https://developer.mozilla.org/)
-[![Node.js](https://img.shields.io/badge/Node.js_Certified-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e)](https://nodejs.org/)
-[![Adobe](https://img.shields.io/badge/Adobe_Certified-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=1a1a2e)](https://www.adobe.com/)
 
 </div>
 
