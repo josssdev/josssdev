@@ -1,9 +1,6 @@
 <div align="center">
 
 ![Cyberpunk Header](https://capsule-render.vercel.app/api?type=rounded&height=284&color=gradient&text=JOSSDEV&section=header)
-
-<img src="icon.gif" alt="Jose Gutierrez" width="150" style="border-radius: 50%;" />
-
 </div>
 
 
