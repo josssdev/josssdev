@@ -239,21 +239,7 @@ timeline
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **ESTADÍSTICAS ÉPICAS**
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josssdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ff6b9d&text_color=ffffff&icon_color=6c5ce7&border_color=74b9ff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josssdev&layout=compact&langs_count=8&theme=tokyonight&bg_color=0a0a0a&title_color=ff6b9d&text_color=ffffff&border_color=74b9ff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=josssdev&theme=tokyonight&background=0a0a0a&border=74b9ff&stroke=ff6b9d&ring=6c5ce7&fire=c44569&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ff6b9d&sideNums=74b9ff&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
 
 ### 🐍 **CONTRIBUTION SNAKE**
 
