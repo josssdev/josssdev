@@ -5,13 +5,6 @@
 <img src="icon.gif" alt="Jose Gutierrez" width="150" style="border-radius: 50%;" />
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Todas+mis+ideas+en+un+solo+lugar;💻+Transformando+conceptos+en+realidad+digital;⚡+%2B2+años+de+experiencia+creando+soluciones;🌟+Siempre+innovando+y+aprendiendo;🎯+Código+limpio%2C+diseño+impecable)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 <div align="center">
