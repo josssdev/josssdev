@@ -94,12 +94,12 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| **JavaScript** | Expert | ![90%](https://progress-bar.dev/90?color=ff6b9d) |
-| **React** | Advanced | ![85%](https://progress-bar.dev/85?color=6c5ce7) |
-| **CSS/HTML** | Expert | ![95%](https://progress-bar.dev/95?color=74b9ff) |
-| **Node.js** | Intermediate | ![75%](https://progress-bar.dev/75?color=c44569) |
-| **React Native** | Advanced | ![80%](https://progress-bar.dev/80?color=ff6b9d) |
-| **UI/UX Design** | Advanced | ![85%](https://progress-bar.dev/85?color=6c5ce7) |
+| **JavaScript** |
+| **React** | 
+| **CSS/HTML** | 
+| **Node.js** | 
+| **React Native** |
+| **UI/UX Design** | 
 
 </div>
 
