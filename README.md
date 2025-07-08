@@ -97,8 +97,6 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 <div align="center">
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=josssdev&theme=tokyonight&bg_color=0a0a0a&title_color=ff6b9d&text_color=ffffff&icon_color=6c5ce7&border_color=74b9ff&layout=compact)](https://wakatime.com/@josssdev)
-
 **📅 Esta semana programé:** `25 hrs 30 mins`  
 **💻 Editor favorito:** `VS Code (89%)`  
 **🔥 Lenguaje más usado:** `JavaScript (45%)`
