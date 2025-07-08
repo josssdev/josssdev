@@ -300,7 +300,7 @@ timeline
 [![Forks](https://img.shields.io/github/forks/josssdev/josssdev?style=social)](https://github.com/josssdev/josssdev)
 [![Watchers](https://img.shields.io/github/watchers/josssdev/josssdev?style=social)](https://github.com/josssdev/josssdev)
 
-**🚀 Última actualización:** `Diciembre 2024`
+**🚀 Última actualización:** `Julio 2025`
 
 </div>
 ```
