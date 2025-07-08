@@ -61,17 +61,6 @@ Superpoder: "Convertir café en código ☕➡️💻"
 <br clear="both"/>
 
 ---
-
-## 🎵 **SPOTIFY - NOW PLAYING**
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0a0a0a&border_color=ff6b9d)](https://open.spotify.com/user/tu_usuario_spotify)
-
-**🎧 Programando al ritmo de:** *Lofi Hip Hop - Beats to Code*
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **TECH STACK & SKILLS**
