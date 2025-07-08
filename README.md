@@ -48,7 +48,6 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 <br clear="both"/>
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **TECH STACK & SKILLS**
 
@@ -90,7 +89,7 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 </div>
 
----
+
 
 ## ⏰ **WAKATIME STATS**
 
@@ -102,15 +101,13 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 </div>
 
----
+
 
 <div align="center">
 
-
-
 </div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **PROYECTOS DESTACADOS**
 
@@ -193,7 +190,6 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **EXPERIENCIA & TIMELINE**
 
@@ -236,7 +232,7 @@ timeline
 | **2021-Actualidad** | **Proyectos Personales** | Diversas tecnologías | 🚀 Portfolio en constante crecimiento |
 
 </div>
----
+
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **CONTACTO & COLABORACIÓN**
 
@@ -264,7 +260,7 @@ timeline
 
 </div>
 
----
+
 
 ## 🎨 **SHOWCASE VISUAL**
 
@@ -284,7 +280,6 @@ timeline
 </table>
 
 </div>
----
 
 <div align="center">
 
@@ -292,7 +287,6 @@ timeline
 
 ![Footer](https://capsule-render.vercel.app/api?type=blur&height=303&color=gradient)
 
----
 
 **⭐ Si te gusta mi trabajo, ¡dale una estrella a este repo!**
 
@@ -303,7 +297,7 @@ timeline
 **🚀 Última actualización:** `Julio 2025`
 
 </div>
-```
+
 
 
 
