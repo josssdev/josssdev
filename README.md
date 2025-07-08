@@ -105,8 +105,6 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 ---
 
-## 🏆 **ACHIEVEMENTS & CERTIFICATIONS**
-
 <div align="center">
 
 
