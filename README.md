@@ -80,8 +80,8 @@ Superpoder: "Convertir café en código ☕➡️💻"
 
 <div align="center">
 
-| Skill | Level | Progress |
-|-------|-------|----------|
+| Skill | 
+|-------|
 | **JavaScript** |
 | **React** | 
 | **CSS/HTML** | 
