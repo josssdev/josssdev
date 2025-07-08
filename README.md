@@ -27,10 +27,9 @@ Desarrollador: Jose Gutierrez
 Ubicación: "En el ciberespacio 🌐"
 Experiencia: "+2 años transformando ideas en código"
 Especialidad: ["Web Development", "Mobile Apps", "UI/UX Design"]
-Filosofía: "Cada línea de código cuenta una historia"
+Filosofía: "Si lo puedes imaginar, lo puedes programar"
 Estado: "Siempre aprendiendo y evolucionando 🚀"
 Nivel: "Senior Junior Developer 💪"
-Superpoder: "Convertir café en código ☕➡️💻"
 ```
 
 🔮 **Desarrollador y diseñador** con más de **2 años de experiencia** creando aplicaciones móviles y páginas web
