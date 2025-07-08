@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cyberpunk Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=JOSE%20GUTIERREZ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desarrollador%20Web%20y%20Móvil%20|%20Diseñador&descAlignY=60&descSize=20)
+![Cyberpunk Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=JOSE%20GUTIERREZ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desarrollador%20Web%20y%20Móvil%20|%20Diseñador&descAlignY=60&descSize=20](https://capsule-render.vercel.app/api?type=rounded&height=284&color=gradient&text=JOSSDEV&section=header))
 
 <img src="icon.gif" alt="Jose Gutierrez" width="150" style="border-radius: 50%;" />
 
