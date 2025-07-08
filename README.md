@@ -238,26 +238,6 @@ timeline
 </div>
 ---
 
-## 📚 **BLOG & ARTÍCULOS**
-
-<div align="center">
-
-### 📝 **Últimas Publicaciones**
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Cómo crear animaciones CSS increíbles](https://tu-blog.com/animaciones-css)
-- 💻 [React Native vs Flutter: Mi experiencia](https://tu-blog.com/react-native-vs-flutter)
-- 🎨 [Diseño UI/UX: Tendencias 2024](https://tu-blog.com/tendencias-ui-ux-2024)
-- ⚡ [Optimización de performance en React](https://tu-blog.com/optimizacion-react)
-- 🌟 [Mi journey como desarrollador autodidacta](https://tu-blog.com/journey-desarrollador)
-<!-- BLOG-POST-LIST:END -->
-
-[![Blog](https://img.shields.io/badge/Leer_Más_Artículos-FF6B9D?style=for-the-badge&logo=hashnode&logoColor=white)](https://tu-blog.com)
-
-</div>
-
----
-
 ## 🎮 **HOBBIES & INTERESTS**
 
 <div align="center">
