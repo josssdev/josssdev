@@ -4,10 +4,6 @@
 
 <img src="icon.gif" alt="Jose Gutierrez" width="150" style="border-radius: 50%;" />
 
-<!-- Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/josssdev/count.svg)
-[![Profile Views](https://komarev.com/ghpvc/?username=josssdev&color=ff6b9d&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/josssdev)
-
 </div>
 
 <div align="center">
