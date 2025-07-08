@@ -187,19 +187,7 @@ Superpoder: "Convertir café en código ☕➡️💻"
 [![Demo](https://img.shields.io/badge/Live_Demo-6C5CE7?style=for-the-badge&logo=play&logoColor=white)](https://josssdev.github.io/Arepas-Colombianas/)
 
 </td>
-<td width="50%">
 
-### 🚀 **Proyecto Secreto**
-**En desarrollo...**
-- 🔹 Innovación en progreso
-- 🔹 Nuevas tecnologías
-- 🔹 IA + Blockchain + Web3
-- 🔹 ¡Mantente atento!
-
-[![Coming Soon](https://img.shields.io/badge/Coming_Soon-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![Sneak Peek](https://img.shields.io/badge/Sneak_Peek-74B9FF?style=for-the-badge&logo=eye&logoColor=white)](#)
-
-</td>
 </tr>
 </table>
 
