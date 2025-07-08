@@ -236,35 +236,6 @@ timeline
 | **2021-Actualidad** | **Proyectos Personales** | Diversas tecnologías | 🚀 Portfolio en constante crecimiento |
 
 </div>
-
----
-
-
-
-### 🐍 **CONTRIBUTION SNAKE**
-
-<div align="center">
-
-![Snake animation](https://github.com/josssdev/josssdev/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-### 📈 **ACTIVITY GRAPH**
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josssdev&theme=tokyo-night&bg_color=0a0a0a&color=ff6b9d&line=6c5ce7&point=74b9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### 🏆 **GITHUB TROPHIES**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=josssdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📚 **BLOG & ARTÍCULOS**
