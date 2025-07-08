@@ -257,56 +257,10 @@ timeline
 
 [![Calendly](https://img.shields.io/badge/Agendar_Reunión-FF6B9D?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/jossgu2023)
 
-### 📱 **QR Code para contacto rápido:**
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=mailto:jossgu2023@gmail.com" alt="QR Code" />
 
 ### 💰 **¿Te gusta mi trabajo? ¡Apóyame!**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jossdev)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jossdev)
-
-</div>
-
----
-
-## 🌍 **IDIOMAS**
-
-<div align="center">
-
-| Idioma | Nivel | Certificación |
-|--------|-------|---------------|
-| 🇪🇸 **Español** | Nativo | ![100%](https://progress-bar.dev/100?color=ff6b9d) |
-| 🇺🇸 **Inglés** | Avanzado | ![85%](https://progress-bar.dev/85?color=6c5ce7) |
-| 🇫🇷 **Francés** | Básico | ![30%](https://progress-bar.dev/30?color=74b9ff) |
-
-[![Language Switch](https://img.shields.io/badge/🌐_English_Version-C44569?style=for-the-badge)](./README_EN.md)
-
-</div>
-
----
-
-## 📊 **MÉTRICAS AVANZADAS**
-
-<div align="center">
-
-### ⚡ **Coding Stats**
-
-[![Coding Time](https://wakatime.com/badge/user/tu-usuario.svg?style=for-the-badge)](https://wakatime.com/@tu-usuario)
-
-**📅 Total de horas programando:** `1,247 hrs`  
-**🔥 Racha actual:** `23 días`  
-**💻 Proyectos completados:** `47`  
-**☕ Tazas de café consumidas:** `∞`  
-
-### 🎯 **Performance Metrics**
-
-| Métrica | Valor | Tendencia |
-|---------|-------|-----------|
-| **Commits este mes** | 127 | 📈 +15% |
-| **Pull Requests** | 34 | 📈 +8% |
-| **Issues resueltos** | 89 | 📈 +22% |
-| **Code Reviews** | 56 | 📈 +12% |
 
 </div>
 
@@ -329,66 +283,7 @@ timeline
 </tr>
 </table>
 
-### 🎬 **Demo Videos**
-
-[![YouTube](https://img.shields.io/badge/Ver_Demos_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tu_canal)
-
 </div>
-
----
-
-## 🤝 **TESTIMONIOS**
-
-<div align="center">
-
-### 💬 **Lo que dicen de mi trabajo:**
-
-> *"Jose es un desarrollador excepcional. Su atención al detalle y creatividad son impresionantes."*  
-> **— Cliente Satisfecho, CEO de TechCorp**
-
-> *"Trabajar con Jose fue una experiencia increíble. Entregó más de lo esperado."*  
-> **— María González, Product Manager**
-
-> *"Su código es limpio, eficiente y bien documentado. Altamente recomendado."*  
-> **— Carlos Ruiz, Senior Developer**
-
-[![Testimonios](https://img.shields.io/badge/Más_Testimonios-FF6B9D?style=for-the-badge&logo=star&logoColor=white)](https://josssdev.github.io/testimonios)
-
-</div>
-
----
-
-## 🔮 **EASTER EGG**
-
-<div align="center">
-
-<details>
-<summary>🎁 <b>Haz click aquí para una sorpresa...</b></summary>
-
-<br>
-
-```
-    ╔══════════════════════════════════════╗
-    ║                                      ║
-    ║     ¡Felicidades! Encontraste el     ║
-    ║            Easter Egg 🥚             ║
-    ║                                      ║
-    ║   Código secreto: JOSS2024ROCKS      ║
-    ║                                      ║
-    ║  Úsalo para obtener un 20% de       ║
-    ║  descuento en mi próximo proyecto   ║
-    ║                                      ║
-    ╚══════════════════════════════════════╝
-```
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
-
-**🎉 ¡Eres parte del 5% que encuentra esto!**
-
-</details>
-
-</div>
-
 ---
 
 <div align="center">
