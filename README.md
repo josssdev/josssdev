@@ -290,7 +290,7 @@ timeline
 
 ### 💫 **"Turning ideas into reality with every line of code."**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=blur&height=303&color=gradient)
 
 ---
 
