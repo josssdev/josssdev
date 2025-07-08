@@ -251,8 +251,7 @@ timeline
 **📧 Email:** [jossgu2023@gmail.com](mailto:jossgu2023@gmail.com)  
 **🌐 Portfolio:** [JOSS.DEV](https://josssdev.github.io/Portafolio-Joss.Dev/)  
 **📱 Instagram:** [@joss_0700](https://www.instagram.com/joss_0700/)  
-**💼 LinkedIn:** [Jose Gutierrez](https://linkedin.com/in/josegutierrez)  
-**🐦 Twitter:** [@jossdev](https://twitter.com/jossdev)  
+**💼 LinkedIn:** [Jose Gutierrez](https://linkedin.com/in/josegutierrez) 
 
 ### 📅 **Agenda una reunión:**
 
