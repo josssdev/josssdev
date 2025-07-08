@@ -238,26 +238,6 @@ timeline
 </div>
 ---
 
-## 🎮 **HOBBIES & INTERESTS**
-
-<div align="center">
-
-### 🌟 **Cuando no estoy programando...**
-
-🎵 **Música:** Lofi Hip Hop, Synthwave, Electronic  
-🎮 **Gaming:** Cyberpunk 2077, Valorant, Indie Games  
-📚 **Lectura:** Sci-Fi, Tech Blogs, Design Articles  
-🏃‍♂️ **Fitness:** Running, Gym, Yoga  
-🎨 **Arte:** Digital Art, 3D Modeling, Photography  
-☕ **Café:** Especialista en convertir café en código  
-
-[![Spotify](https://img.shields.io/badge/Spotify_Playlist-FF6B9D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/tu_playlist)
-[![Steam](https://img.shields.io/badge/Steam_Profile-6C5CE7?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/tu_perfil)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **CONTACTO & COLABORACIÓN**
 
 <div align="center">
